@@ -1,6 +1,6 @@
 compilar: 
-	python3 ejercicio.py
+	python3 Ejercicio.py
 
 test: 
-	python3 tdd.py
+	python3 TDD.py
 
