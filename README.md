@@ -13,10 +13,6 @@ Busca en la Microsoft Store Python 3.10, una vez instalado escribir en el termin
 python -m pip install --upgrade pip
 ```
 
-Una vez instalado python será necesario instalar "unittest" dentro de python, para instalarlo habrá que abrir un terminal y escribir:
-```shell
-
-```
 ### EJECUCIÓN
 - Para compilar el código
 ```shell
